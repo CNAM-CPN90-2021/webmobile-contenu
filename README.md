@@ -1064,11 +1064,25 @@ cross-plateforme
   - npm, yarn
   - ionic starter
 
+
+
+Exercice :
+
+Lift state up -> monter le hooks dans le parent (app.tsx) et partager ça à l'aide des profs
+
+Rule of hooks
+
+
+
 ## Projet : une application de chasse au trésor
 
 React + Ionic + Cordova
 
 Localisation, Nfc, …
+
+
+
+
 
 
 
