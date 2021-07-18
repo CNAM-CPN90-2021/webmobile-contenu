@@ -22,3 +22,40 @@ Initialisez un projet ionic, et ajoutez-le sur l'orga du CNAM sous le nom :
   - puis créer des exemples de fausses données pour le dev dans un ou des fichiers `.json`
 - Réfléchissez à la navigation
   - étapes, décisions, boucles, modales, revenir en arrière, interrompre le jeu ?
+
+
+
+
+
+
+
+
+
+---
+
+
+
+Giovanni
+
+Louis
+
+Nathan
+
+~~Jérémy~~
+
+Antonin
+
+Julien
+
+Théo
+
+- Thomas
+- Édouard , Arnaud
+- Justin,
+- Mouafak,
+- Jordan, Madina
+
+
+
+
+
